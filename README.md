@@ -1,2 +1,0 @@
-# grade
-developed by anitharanganathan
